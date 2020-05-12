@@ -17,3 +17,5 @@ print(max(names))
 # prints name that is lowest in alphabetical order
 print(min(names))
 
+
+print(len("How long is this string including spaces"))
